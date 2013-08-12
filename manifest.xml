@@ -1,0 +1,16 @@
+<package>
+  <description brief="serialization_test">
+
+     serialization_test
+
+  </description>
+  <author>Demo User</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/serialization_test</url>
+  <depend package="roscpp"/>
+  <depend package="std_msgs"/>
+
+</package>
+
+
